@@ -17,6 +17,6 @@ We propose a robust method for coherent vector field learning with outliers (mis
 
 ![](Fig1.png)
 
-#### Licenses
+#### License
 
 MIT
