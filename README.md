@@ -2,7 +2,8 @@
 ## Learning Coherent Vector Fields for Robust Point Matching under Manifold Regularization
  
 ```
-Learning Coherent Vector Fields for Robust Point Matching under Manifold Regularization. Neurocomputing, 2016, Vol 216, pp. 393-401
+Learning Coherent Vector Fields for Robust Point Matching under Manifold Regularization. 
+Neurocomputing, 2016, Vol 216, pp. 393-401
 
 ```
 
